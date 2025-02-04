@@ -84,8 +84,8 @@ const Sidebar = () => {
         <Image
           src="https://s3-inventorymanagement-xjim.s3.us-east-1.amazonaws.com/logo.png"
           alt="urosur-logo"
-          width={27}
-          height={27}
+          width={40}
+          height={40}
           className="rounded w-8"
         />
         <h1
